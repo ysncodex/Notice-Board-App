@@ -1,0 +1,30 @@
+# Dependencies
+**/node_modules/
+
+# Environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Builds
+**/dist/
+**/build/
+**/.vite/
+**/coverage/
+
+# Logs
+**/logs/
+**/*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Uploads
+server/uploads/*
+!server/uploads/.gitkeep
+
+
