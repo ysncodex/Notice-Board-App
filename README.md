@@ -12,8 +12,8 @@ Notice board system with:
 - **Backend**: Node.js, Express, MongoDB (Mongoose), Multer (uploads)
 
 ### Live URLs (fill after deployment)
-- **Frontend**: `<YOUR_FRONTEND_URL>`
-- **Backend**: `<YOUR_BACKEND_URL>`
+- **Frontend**: notice-board-app-client.netlify.app
+- **Backend**: https://notice-board-app-server.onrender.com
 
 ### API base URL
 Frontend reads the API base URL from:
